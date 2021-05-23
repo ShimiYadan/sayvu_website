@@ -1,0 +1,81 @@
+.press-card-div {
+    background-color: #F0F0F0;
+    font-family: "G Book";
+    font-size: 1.1vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 19vw;
+    padding: 1% 1% 0 1%;
+    height: 24.5vw;
+    overflow: hidden;
+    position: relative;
+}
+
+.press-card-div p:nth-child(2) {
+    width: 17vw;
+    padding-top: 2.5%;
+    margin-bottom: 3%;
+}
+
+.press-card-div p:nth-child(3) {
+    margin-bottom: 7%;
+}
+
+.press-card-button {
+    background-color: #c4132a;
+    color: white;
+    font-family: "G Light";
+    font-size: 1vw;
+    border: none;
+    border-radius: 25px;
+    padding: .35vw 0 .35vw 0;
+    width: 7.5vw;
+}
+
+.press-card-div img {
+    width: 17vw;
+}
+
+.press-card-a {
+    position: absolute;
+    bottom: 2%;
+}
+
+@media only screen and (max-width: 480px) {
+    .press-card-div {
+        background-color: #F0F0F0;
+        font-family: "G Book";
+        font-size: 4.5vw;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        width: 75vw;
+        padding: 3.7% 1.3% 0 2%;
+        height: 105vw;
+        overflow: hidden;
+    }
+    .press-card-div p:nth-child(2) {
+        width: 70vw;
+        padding-top: 2.5%;
+    }
+    .press-card-div p:nth-child(3) {
+        margin-top: -2%;
+    }
+    .press-card-button {
+        background-color: #c4132a;
+        color: white;
+        font-family: "G Light";
+        font-size: 3vw;
+        border: none;
+        border-radius: 25px;
+        padding: 2vw 0 1.8vw 0;
+        width: 30vw;
+        margin-top: 1%;
+    }
+    .press-card-div img {
+        width: 67vw;
+    }
+}

@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "G Bold Italic";
+    src: url("../fonts/Gotham\ Rounded\ Bold\ Italic.otf");
+}
+
+@font-face {
+    font-family: "G Book";
+    src: url("../fonts/Gotham\ Rounded\ Book.otf");
+}
+
+@font-face {
+    font-family: "G Bold";
+    src: url("../fonts/GothamRounded-Bold.otf");
+}
+
+@font-face {
+    font-family: "G Book Italic";
+    src: url("../fonts/GothamRounded-BookItalic.otf");
+}
+
+@font-face {
+    font-family: "G Light";
+    src: url("../fonts/GothamRounded-Light.otf");
+}
+
+@font-face {
+    font-family: "G Light Italic";
+    src: url("../fonts/GothamRounded-LightItalic.otf");
+}
+
+@font-face {
+    font-family: "G Medium";
+    src: url("../fonts/GothamRounded-Medium.otf");
+}
+
+@font-face {
+    font-family: "G Medium Italic";
+    src: url("../fonts/GothamRounded-MediumItalic.otf");
+}

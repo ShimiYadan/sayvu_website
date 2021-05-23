@@ -1,0 +1,172 @@
+.carousel-content {
+    width: 80vw;
+    height: 20vh;
+    padding-top: 23vw;
+    display: flex;
+    justify-content: center;
+    margin-left: 11%;
+}
+
+.container-carousel {
+    display: flex;
+    width: 85vw;
+    justify-content: space-around;
+    align-self: center;
+    padding-top: 2%;
+}
+
+.carousel-paragraph-div {
+    width: 11.5vw;
+    text-align: center;
+    color: white;
+}
+
+.carousel-content p {
+    text-align: center;
+    font-size: 1.5vw;
+    font-family: "G Light";
+    color: white;
+}
+
+.first-carousel-slide {
+    height: 39vw;
+    background-image: url('../../images/carousel/car1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.second-carousel-slide {
+    height: 39vw;
+    background-image: url('../../images/carousel/car2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.carousel-images-div {
+    width: 10vw;
+    margin-left: 5%;
+}
+
+.single-line-carousel-container {
+    margin-top: -2%;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-size: 100% 100%;
+    height: 3vw !important;
+    width: 3vw !important;
+}
+
+.first-carousel-slide h1 {
+    color: white;
+    font-size: 5vw;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    font-family: 'G Medium';
+}
+
+.second-carousel-slide h1 {
+    color: white;
+    font-size: 5vw;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    font-family: 'G Medium';
+}
+
+.three-lined {
+    margin-top: 2.5%;
+}
+
+
+/* MOBILE  */
+
+.carousel-content-mobile {
+    width: 80vw;
+    height: 20vh;
+    padding-top: 25vh;
+    display: flex;
+    justify-content: center;
+    margin-left: 11%;
+}
+
+.container-carousel-mobile {
+    display: flex;
+    width: 85vw;
+    justify-content: space-around;
+    align-self: center;
+    padding-top: 2%;
+}
+
+.carousel-paragraph-div-mobile {
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.carousel-content-mobile p {
+    text-align: center;
+    font-size: 4vw;
+    font-family: "G Light";
+    color: white;
+}
+
+.first-carousel-slide-mobile {
+    height: 45vh;
+    background-image: url('../../images/carousel/car1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.second-carousel-slide-mobile {
+    height: 45vh;
+    background-image: url('../../images/carousel/car2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.carousel-images-div-mobile {
+    width: 25vw;
+    margin-left: 0;
+}
+
+.single-line-carousel-container-mobile {
+    margin-top: -2%;
+}
+
+.first-carousel-slide-mobile h1 {
+    color: white;
+    font-size: 8vw;
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    font-family: 'G Medium';
+}
+
+.second-carousel-slide-mobile h1 {
+    color: white;
+    font-size: 8vw;
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    font-family: 'G Medium';
+}
+
+.three-lined-mobile {
+    margin-top: 18%;
+}
+
+.elements-div-mobile {
+    display: flex;
+    flex-direction: column;
+}
+
+.icon-car-mobile {
+    align-self: center;
+}
+
+.two-lined-mobile {
+    margin-top: 7%;
+}

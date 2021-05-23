@@ -1,0 +1,52 @@
+.first-section-home {
+    display: flex;
+    height: 37vw;
+    margin-top: 10%;
+}
+
+.first-section-home-mobile {
+    height: 120vw !important;
+    margin-top: 10%;
+    width: 100vw;
+}
+
+@media screen and ( min-height: 737px) {
+    .first-section-home-mobile {
+        height: 45vh;
+        margin-top: 10%;
+        width: 100vw;
+    }
+}
+
+.section1-div1 {
+    width: 50vw;
+}
+
+.section1-div1-mobile {
+    width: 100vw;
+}
+
+.iPhone-div {
+    width: 30vw;
+    position: absolute;
+    top: 15%;
+    right: 18%;
+    z-index: 1;
+}
+
+@media only screen and (max-width: 800px) and (min-width: 481px) {
+    .iPhone-div {
+        top: 9%;
+    }
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
+    .iPhone-div {
+        top: 9%
+    }
+}
+
+.iPhone-div-mobile {
+    width: 40vw;
+    z-index: 5;
+}

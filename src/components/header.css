@@ -1,0 +1,40 @@
+.header-image-div {
+    width: 28vw;
+    margin: 6% 1.5% 2% 3%;
+}
+
+.header-button-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10.5vw;
+    margin-left: 13%;
+}
+
+.menu-list {
+    width: 46vw;
+}
+
+@media only screen and (min-width: 2100px) {
+    .menu-list {
+        margin-top: -.5vw;
+    }
+}
+
+.mobile-menu-div {
+    width: 30vw;
+    display: flex;
+    align-items: center;
+}
+
+.mobile-menu-image-div {
+    width: 40vw;
+    display: flex;
+    align-items: center;
+    margin-top: 20%;
+}
+
+.mobile-fill-div {
+    width: 30vw;
+    color: white;
+}

@@ -1,0 +1,39 @@
+.press-card-div-3 {
+    background-color: #F0F0F0;
+    font-family: "G Book";
+    font-size: 1vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 19vw;
+    padding: 1% 1% 0 1%;
+    height: 24.5vw;
+    overflow: hidden;
+    position: relative;
+}
+
+.press-card-div-3 p:nth-child(2) {
+    width: 17vw;
+    padding-top: 2.5%;
+    margin-bottom: 1%;
+}
+
+.press-card-div-3 p:nth-child(3) {
+    margin-bottom: 5%;
+}
+
+.press-card-button-3 {
+    background-color: #c4132a;
+    color: white;
+    font-family: "G Light";
+    font-size: 1vw;
+    border: none;
+    border-radius: 25px;
+    padding: .35vw 0 .35vw 0;
+    width: 7.5vw;
+}
+
+.press-card-div-3 img {
+    width: 17vw;
+}

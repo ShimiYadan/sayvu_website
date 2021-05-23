@@ -1,0 +1,59 @@
+.success-cards-div {
+    display: flex;
+    justify-content: space-between;
+    width: 75vw;
+}
+
+.last-home-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+}
+
+.last-home-section h2 {
+    font-family: "G Medium";
+    font-size: 5vw;
+    margin-top: 8%;
+    margin-bottom: 10%;
+}
+
+.copyright-p {
+    color: gray;
+    font-family: "G Medium";
+    font-size: 1.3vw;
+    margin-top: 25%;
+    margin-bottom: 6%;
+}
+
+
+/* MOBILE */
+
+.success-cards-div-mobile {
+    display: flex;
+    justify-content: space-between;
+    width: 90vw;
+}
+
+.last-home-section-mobile h2 {
+    font-family: "G Medium";
+    font-size: 7vw;
+    margin-top: 20%;
+    margin-bottom: -10%;
+    height: 30vw;
+}
+
+.last-home-section-mobile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+}
+
+.copyright-p-mobile {
+    color: gray;
+    font-family: "G Medium";
+    font-size: 2.5vw;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}

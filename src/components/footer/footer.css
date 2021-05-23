@@ -1,0 +1,53 @@
+.footer-mob-img-container {
+    width: 35vw;
+}
+
+.footer-mob-img-container-desktop {
+    width: 10vw;
+}
+
+.footer-second-p {
+    margin-top: -5.5%;
+}
+
+.footer-first-p-desktop {
+    margin-bottom: .1vw;
+}
+
+.map-marker-div {
+    width: 10%;
+}
+
+.info-footer {
+    display: flex;
+    margin-bottom: 0;
+}
+
+.footer-stores {
+    width: 47%;
+}
+
+.icon-footer-div {
+    width: 12%;
+}
+
+.icon-footer-div-mobile {
+    width: 12%;
+}
+
+.all-icons-footer-div-mobile {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.all-icons-footer-div {
+    width: 120%;
+    margin-top: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-section {
+    width: 30%;
+}

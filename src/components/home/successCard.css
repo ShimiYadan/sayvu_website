@@ -1,0 +1,85 @@
+.success-card {
+    width: 19.3vw;
+    height: 21vw;
+    background-image: url("../../images/verticals/safe.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    z-index: 6;
+}
+
+.content-success-card {
+    height: 9.5vw;
+    align-self: flex-end;
+    margin: 0;
+    padding: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.content-success-card h3 {
+    color: white;
+    margin-top: 2%;
+    font-family: "G Medium";
+    font-size: 1.3vw;
+}
+
+.content-success-card p {
+    line-height: 125%;
+    font-family: "G Light";
+    font-size: .9vw;
+    margin-bottom: -1%;
+}
+
+.content-success-card a {
+    font-family: "G Medium";
+    font-size: .8vw;
+    color: white;
+}
+
+.content-success-div {
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 5px;
+}
+
+
+/* MOBILE */
+
+.success-card-mobile {
+    width: 27.3vw;
+    height: 29vw;
+    background-image: url("../../images/verticals/safe.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.content-success-card-mobile {
+    height: 9.5vw;
+    align-self: flex-end;
+    margin: 0;
+    padding: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.content-success-card-mobile h3 {
+    color: white;
+    margin-top: -5%;
+    font-family: "G Medium";
+    font-size: 2vw;
+    margin-bottom: 8%;
+}
+
+.mobile-read-more-success-link {
+    font-family: "G Medium";
+    font-size: 1.8vw;
+    color: white;
+}
+
+.content-success-div-mobile {
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 5px;
+}

@@ -1,0 +1,46 @@
+.cookies-accept-button {
+    background-color: green !important;
+    color: white !important;
+    font-family: 'G Book';
+    font-size: 1.3vw !important;
+}
+
+.cookies-decline-button {
+    background-color: #C4132A !important;
+    color: white !important;
+    font-family: 'G Book';
+    font-size: 1.3vw !important;
+}
+
+.cookies-content {
+    font-family: 'G Medium';
+    height: 5vw;
+    display: flex;
+    align-items: center;
+    font-size: 1.5vw;
+}
+
+@media only screen and (max-width: 480px) {
+    .cookies-accept-button {
+        background-color: green !important;
+        color: white !important;
+        font-family: 'G Book';
+        font-size: 3.5vw !important;
+    }
+    .cookies-decline-button {
+        background-color: #C4132A !important;
+        color: white !important;
+        font-family: 'G Book';
+        font-size: 3.5vw !important;
+    }
+    .cookies-content {
+        font-family: 'G Medium';
+        height: 5vw;
+        display: flex;
+        align-items: center;
+        font-size: 4vw;
+    }
+    .p-cookie-div {
+        margin-top: 6vw;
+    }
+}

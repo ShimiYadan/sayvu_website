@@ -1,0 +1,496 @@
+.about-our-growth-div-desktop {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5%;
+    font-size: 2vw;
+    padding-bottom: 4.5%;
+}
+
+.about-our-growth-div-desktop h2 {
+    font-family: "G Medium";
+    margin-bottom: -.1%;
+    font-size: 5vw;
+}
+
+.about-second-section-section {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 5%;
+}
+
+.about-linea-desktop {
+    height: calc(120vw * (9/16));
+}
+
+.about-line-section {
+    width: 2vw;
+}
+
+.second-section-logos-div {
+    width: 49vw;
+}
+
+.growth-info-div {
+    width: 49vw;
+}
+
+.about-google-logo {
+    width: 14%;
+    margin-right: 4%;
+}
+
+.about-smart-logo {
+    width: 14.5%;
+    height: 14.5%;
+}
+
+.about-images-first-div {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 35%;
+    margin-top: -1.4%;
+}
+
+.about-logos-info-divs h3 {
+    font-family: "G Medium";
+    font-size: 1.2vw;
+    color: #c4132a;
+    margin-bottom: -.1%;
+}
+
+.about-logos-info-divs p {
+    font-family: "G Book";
+    font-size: 1.2vw;
+    line-height: 125%;
+}
+
+.about-growth-info-first-div {
+    width: 25vw;
+    padding-left: 5%;
+}
+
+
+/* SECOND DIVS */
+
+.about-homeland-logo {
+    width: 11%;
+    height: 11%;
+    margin-right: 4%;
+}
+
+.about-blue-menorah-logo {
+    width: 9%;
+    height: 9%;
+    margin-right: 4%;
+}
+
+.about-rio-logo {
+    width: 10%;
+}
+
+.about-images-second-div {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 27.5%;
+    margin-top: 9%;
+}
+
+.about-growth-info-second-div {
+    width: 30vw;
+    padding-left: 5%;
+    margin-top: 8.5%;
+}
+
+
+/* THIRD DIVS */
+
+.about-att-logo {
+    width: 20%;
+    height: 20%;
+}
+
+.about-amdocs-logo {
+    width: 10%;
+    margin-left: 4%;
+    margin-top: -1%;
+}
+
+.about-images-third-div {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 30.5%;
+    margin-top: 14.5%;
+}
+
+.about-growth-info-third-div {
+    width: 32vw;
+    padding-left: 5%;
+    margin-top: 9.5%;
+}
+
+
+/* FOURTH DIVS */
+
+.about-cttsc3-logo {
+    width: 12%;
+    height: 12%;
+    margin-right: 5%;
+}
+
+.about-curico-logo {
+    width: 10%;
+    height: 10%;
+}
+
+.about-images-fourth-div {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 37.5%;
+    margin-top: 7.5%;
+}
+
+.about-growth-info-fourth-div {
+    width: 32vw;
+    padding-left: 5%;
+    margin-top: 8%;
+}
+
+
+/* FIFTH DIVS */
+
+.about-images-fifth-div {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 6.5%;
+    margin-top: 15.5%;
+}
+
+.about-casablanca-logo {
+    width: 8%;
+    margin-right: 3%;
+}
+
+.about-defense-logo {
+    width: 9.5%;
+    height: 9.5%;
+}
+
+.about-weizmann-logo {
+    width: 17%;
+    height: 17%;
+    margin-left: 2.5%;
+}
+
+.about-firefighters-logo {
+    width: 8.5%;
+    height: 8.5%;
+    margin-left: 2.5%;
+}
+
+.about-growth-info-fifth-div {
+    width: 28vw;
+    padding-left: 5%;
+    margin-top: 10%;
+}
+
+
+/* SIXTH DIVS */
+
+.about-statkraft-logo {
+    width: 25%;
+    height: 25%;
+    margin-right: 3%;
+    margin-top: 2%;
+}
+
+.about-orange-logo {
+    width: 9%;
+}
+
+.about-sixt-logo {
+    width: 9%;
+    height: 9%;
+    margin-left: 3.5%;
+}
+
+.about-images-sixth-div {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 9%;
+    margin-top: 12%;
+}
+
+.about-growth-info-sixth-div {
+    width: 25vw;
+    padding-left: 5%;
+    margin-top: 9.5%;
+}
+
+.about-growth-info-sixth-div p {
+    margin-bottom: -.05%;
+}
+
+
+/* SEVENTH */
+
+.about-growth-info-seventh-div {
+    padding-left: 5%;
+    margin-top: 10.3%;
+    width: 28vw;
+}
+
+.about-images-seventh-div {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10%;
+    margin-top: 23%;
+}
+
+.about-images-seventh-div img:nth-child(2) {
+    width: 22%;
+    height: 22%;
+    margin-top: 3%;
+}
+
+.about-growth-info-seventh-div p {
+    margin-bottom: -.05%;
+}
+
+.about-sparta-logo {
+    width: 32%;
+}
+
+
+/* MOBILE */
+
+.whats-going-on-div {
+    padding: 5%;
+}
+
+.about-our-growth-div-mobile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5%;
+    font-size: 4.5vw;
+    padding-bottom: 10%;
+}
+
+.about-our-growth-div-mobile h2 {
+    font-family: "G Medium";
+    margin-bottom: -.1%;
+    font-size: 9.5vw;
+}
+
+.about-second-section-section-mobile {
+    display: flex;
+}
+
+.about-linea-mobile {
+    height: calc(530vw * (9/16));
+}
+
+.about-line-section-mobile {
+    width: 2vw;
+    margin-left: 6%;
+}
+
+
+/* FIRST DIV */
+
+.growth-info-div-mobile h3 {
+    font-family: "G Medium";
+    font-size: 5vw;
+    color: #c4132a;
+    margin-bottom: -.05%;
+}
+
+.growth-info-div-mobile p {
+    line-height: 120%;
+    font-family: "G Book";
+    font-size: 4.3vw;
+}
+
+.growth-info-div-mobile {
+    padding-left: 8%;
+}
+
+.growth-info-div-mobile p:nth-child(2) {
+    width: 80vw;
+}
+
+.about-images-first-div-mobile {
+    display: flex;
+    margin-top: -1.5%;
+}
+
+.about-google-logo-mobile {
+    width: 14.5%;
+    margin-right: 4%;
+    margin-left: -1.5%;
+}
+
+.about-smart-logo-mobile {
+    width: 15%;
+    height: 15%;
+}
+
+
+/* SECOND DIV */
+
+.about-homeland-logo-mobile {
+    width: 13%;
+    height: 13%;
+    margin-right: 6%;
+}
+
+.about-blue-messusah-logo-mobile {
+    width: 10%;
+    height: 10%;
+    margin-right: 6%;
+}
+
+.about-rio-logo-mobile {
+    width: 13%;
+}
+
+.about-images-second-div-mobile {
+    display: flex;
+}
+
+.about-growth-info-second-div-mobile {
+    margin-top: 3%;
+}
+
+.about-growth-info-second-div-mobile p:nth-child(2) {
+    margin-bottom: -.0000000001%;
+}
+
+.about-images-second-div-mobile {
+    margin-top: -1%;
+}
+
+
+/* THIRD DIV */
+
+.about-att-logo-mobile {
+    width: 25%;
+}
+
+.about-amdocs-logo-mobile {
+    width: 10%;
+    margin-left: 4%;
+}
+
+.about-growth-info-third-div-mobile {
+    margin-top: 6%;
+}
+
+.about-images-third-div-mobile {
+    margin-top: -1%;
+}
+
+
+/* FOURTH DIV */
+
+.about-cttsc3-logo-mobile {
+    width: 13%;
+    margin-right: 6%;
+}
+
+.curico-logo-mobile {
+    width: 10.5%;
+}
+
+.about-growth-info-fourth-div-mobile {
+    margin-top: 7.2%;
+}
+
+.about-growth-info-fourth-div-mobile p {
+    line-height: 140%;
+}
+
+
+/* FIFTH DIV */
+
+.casablanca-mobile {
+    width: 12.5%;
+    margin-right: 4%;
+}
+
+.defense-logo-mobile {
+    width: 15%;
+    margin-right: 4%;
+}
+
+.about-weizmann-logo-mobile {
+    width: 28%;
+    margin-right: 4%;
+}
+
+.about-firefighters-logo-mobile {
+    width: 14.5%;
+}
+
+.about-growth-info-fifth-div-mobile p {
+    margin-bottom: -.01%;
+}
+
+.about-growth-info-fifth-div-mobile {
+    margin-top: 10%;
+}
+
+.about-images-fifth-div-mobile {
+    margin-top: 3%;
+}
+
+
+/* SIXTH DIV */
+
+.statkraft-mobile {
+    width: 30%;
+    margin-right: 4%;
+}
+
+.orange-logo-mobile {
+    width: 12.5%;
+    margin-right: 4%;
+}
+
+.sixt-logo-mobile {
+    width: 12.5%;
+}
+
+.about-growth-info-sixth-div-mobile p {
+    margin-bottom: .5%;
+}
+
+.about-growth-info-sixth-div-mobile {
+    margin-top: 7%;
+}
+
+.about-images-sixth-div-mobile {
+    margin-top: 4%;
+}
+
+
+/* SEVENTH DIV */
+
+.sparta-mobile {
+    width: 50%;
+    margin-left: -8%;
+    margin-top: 0;
+}
+
+.about-growth-info-seventh-div-mobile {
+    margin-top: 7%;
+}
+
+.about-growth-info-seventh-div-mobile p {
+    margin-bottom: -.01%;
+}
+
+.ministry-mobile {
+    width: 45%;
+}

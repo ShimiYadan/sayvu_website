@@ -1,0 +1,90 @@
+.success-card-chile {
+    width: 19.3vw;
+    height: 21vw;
+    background-image: url("../../images/verticals/sa.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.content-success-card-chile {
+    height: 9.5vw;
+    align-self: flex-end;
+    margin: 0;
+    padding: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.content-success-card-chile h3 {
+    color: white;
+    margin-top: 2%;
+    font-family: "G Medium";
+    font-size: 1vw;
+}
+
+.content-success-card-chile p {
+    line-height: 125%;
+    font-family: "G Light";
+    font-size: .9vw;
+    margin-bottom: -.1vw;
+}
+
+.corporate-link {
+    font-family: "G Medium";
+    font-size: .8vw;
+    color: white;
+}
+
+.corporate-link:hover {
+    color: white;
+}
+
+.content-success-div-chile {
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 5px;
+}
+
+
+/* MOBILE */
+
+.success-card-chile-mobile {
+    width: 27.3vw;
+    height: 29vw;
+    background-image: url("../../images/verticals/sa.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.content-success-card-chile-mobile {
+    height: 9.5vw;
+    align-self: flex-end;
+    margin: 0;
+    padding: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    overflow: hidden;
+}
+
+.content-success-card-chile-mobile h3 {
+    color: white;
+    margin-top: -5%;
+    font-family: "G Medium";
+    font-size: 2vw;
+    width: 20vw;
+    margin-bottom: -5%;
+}
+
+.mobile-read-more-chile-link {
+    font-family: "G Medium";
+    font-size: 1.8vw;
+    color: white;
+}
+
+.content-success-div-chile-mobile {
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 5px;
+}

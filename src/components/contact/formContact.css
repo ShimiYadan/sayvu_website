@@ -1,0 +1,132 @@
+.form-contact-antd {
+    background-color: whitesmoke;
+    font-family: "G Book";
+    padding: 3%;
+    width: 80vw;
+    margin-bottom: 3vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.form-contact-antd-input {
+    border: none;
+}
+
+.form-contact-antd label {
+    font-size: 2vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.text-area-form-contact {
+    height: 15vw;
+    width: 70vw;
+}
+
+.form-contact-input-input {
+    height: 3.5vw;
+    width: 70vw;
+    margin-bottom: 2%;
+}
+
+.form-contact-antd-button {
+    border: none;
+    background-color: #c4132a;
+    border-radius: 25px;
+    font-size: 1.5vw;
+    width: 10vw;
+    color: white;
+    padding-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25%;
+}
+
+.PhoneInputInput {
+    border: none !important;
+}
+
+.phone-input {
+    background-color: white;
+}
+
+.PhoneInputCountryIcon {
+    margin-left: 2% !important;
+}
+
+.custom-checkbox {
+    cursor: pointer;
+    width: 1.3vw;
+    height: 1.3vw;
+}
+
+.custom-checkbox-div {
+    display: flex;
+    margin-top: 1vw;
+    margin-bottom: -1vw !important;
+}
+
+.custom-checkbox-div p {
+    display: inline;
+    font-family: 'G Book';
+    align-self: center;
+    margin-left: .5vw;
+    font-size: 1.1vw;
+}
+
+.custom-checkbox-div p a {
+    color: black;
+}
+
+@media only screen and (max-width: 480px) {
+    .form-contact-antd {
+        background-color: whitesmoke;
+        font-family: "G Book";
+        padding: 3%;
+        width: 80vw;
+        margin-bottom: 10vw;
+    }
+    .form-contact-antd-input {
+        border: none;
+    }
+    .form-contact-antd label {
+        font-size: 5vw;
+    }
+    .text-area-form-contact {
+        height: 30vw;
+        margin-bottom: 5%;
+        margin-top: 3%;
+    }
+    .form-contact-input-input {
+        height: 10vw;
+    }
+    .form-contact-antd-button {
+        border: none;
+        background-color: #c4132a;
+        border-radius: 25px;
+        font-size: 4vw;
+        width: 20vw;
+        padding: 0;
+    }
+    .custom-checkbox {
+        width: 4vw;
+        height: 4vw;
+    }
+    .custom-checkbox-div {
+        display: flex;
+        margin-top: 1vw;
+        margin-bottom: -4vw;
+    }
+    .custom-checkbox-div p {
+        display: inline;
+        font-family: 'G Book';
+        align-self: center;
+        margin-left: 2vw;
+        font-size: 3vw;
+    }
+    .custom-checkbox-div p a {
+        color: black;
+    }
+}
